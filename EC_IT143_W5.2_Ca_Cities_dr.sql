@@ -1,5 +1,5 @@
 /*****************************************************************************************************************
-NAME:    CaCitiesAnswers
+NAME:    EC_IT143_W5.2_Ca_Cities_dr.sql
 PURPOSE: Answers questions about my CA Cities database.
 
 MODIFICATION LOG:
